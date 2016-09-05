@@ -20,8 +20,6 @@ configure :build do
   set :build_dir, "public"
   activate :relative_assets
   ignore "layouts/layout.haml"
-  ignore "css/octicons/LICENSE.txt"
-  ignore "css/octicons/README.md"
 end
 
 activate :livereload
