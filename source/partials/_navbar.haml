@@ -20,9 +20,29 @@
       %div.navbar-collapse.collapse
         %ul.nav.navbar-nav.navbar-right
           - content[:options].each do |option|
-            %li
-              %a{ href: option[:url], class: option[:class] }
-                - if option[:icon]
-                  %span{ class: option[:icon][:class] }
-                - if option[:label]
-                  %span= option[:label]
+            - if option[:dropdown]
+              %li.dropdown
+                %a{ class: "dropdown-toggle",
+                    href: "#",
+                    role: "button",
+                    "data-toggle" => "dropdown" }
+                  - if option[:icon]
+                    %span{ class: option[:icon][:class] }
+                  - if option[:label]
+                    %span= option[:label]
+                  %span.caret
+                %ul.dropdown-menu
+                  - option[:dropdown].each do |suboption|
+                    - if suboption[:separator]
+                      %li.divider{ role: "separator" }
+                    - else
+                      %li
+                        %a{ href: suboption[:url] }= suboption[:label]
+
+            - else
+              %li
+                %a{ href: option[:url], class: option[:class] }
+                  - if option[:icon]
+                    %span{ class: option[:icon][:class] }
+                  - if option[:label]
+                    %span= option[:label]
