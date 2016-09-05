@@ -2,7 +2,26 @@ partial: "navbar"
 class: "navbar-default navbar-fixed-top"
 title: "Bridge City Squeegee"
 options:
+- label: "Services"
+  dropdown:
   - label: "Services"
     url: "/services"
-  - label: "Contact"
-    url: "/contact"
+  - separator: true
+  - label: "Window Washing"
+    url: "/services/windows"
+  - label: "Gutter Cleaning"
+    url: "/services/gutters"
+  - label: "General Handyman"
+    url: "/services/handyman"
+- label: "Quote"
+  url: "/quote"
+- label: "About"
+  url: "/about"
+- label: "Contact"
+  url: "/contact"
+- icon:
+    class: "fa fa-twitter"
+  url: "https://twitter.com/bcsqueegee"
+- icon:
+    class: "fa fa-instagram"
+  url: "https://instagram.com/bcsqueegee"
