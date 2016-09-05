@@ -10107,3 +10107,7 @@ button.close {
   margin: 0;
   overflow: visible;
   clip: auto; }
+
+/* line 8, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/base.scss */
+h1 {
+  color: blue; }
