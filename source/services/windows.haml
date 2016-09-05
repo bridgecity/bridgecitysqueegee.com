@@ -1,1 +1,16 @@
-%h2="We Clean Your Windows"
+= stylesheet_link_tag "windows"
+%div.container
+  %h1= "We Clean Your Windows"
+  %h3= "BlahLahahah"
+
+
+  <div class="alert alert-warning alert-dismissible" role="alert">
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+  <strong>Warning!</strong> Better check yourself, you're not looking too good.
+  </div>
+
+  %div.alert.alert-warning.alert-dismissible{role: "alert"}
+    %button.close{"type" => "button", "data-dismiss" => "alert", "aria-label" => "Close"}
+      %span{"aria-hidden" => "true"}= "&times;"
+    %strong= "Warning!"
+    Better check yourself, you're not looking too good.
