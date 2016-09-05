@@ -1,0 +1,8 @@
+banner:
+  class: "text-center"
+  heading: "Bridge City Squeegee"
+  subheading: "Your Portland-area window-washing specialists"
+  button:
+    class: "btn-success btn-lg btn-block"
+    label: "FREE Quote!"
+    url: "/quote"

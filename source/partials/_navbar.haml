@@ -1,0 +1,28 @@
+%div.navbar.navbar-hidden
+  = stylesheet_link_tag "navbar"
+  - content = data[:navigation]
+  %div{ id: content[:id], class: content[:class] }
+    %div.container
+      %div.navbar-header
+        %button.navbar-toggle{ "type" => "button",
+                               "data-toggle" => "collapse",
+                               "data-target" => ".navbar-collapse" }
+          %span.glyphicon.glyphicon-menu-hamburger
+        %a.navbar-brand{ href: "/" }
+          - if content[:title].kind_of?(String)
+            %span= content[:title]
+          - elsif content[:title].kind_of?(Hash)
+            - if content[:title][:img]
+              %img.img-responsive{ class: content[:title][:class],
+                    src: content[:title][:img][:src] }
+            - if content[:title][:content]
+              %span= content[:title][:content]
+      %div.navbar-collapse.collapse
+        %ul.nav.navbar-nav.navbar-right
+          - content[:options].each do |option|
+            %li
+              %a{ href: option[:url], class: option[:class] }
+                - if option[:icon]
+                  %span{ class: option[:icon][:class] }
+                - if option[:label]
+                  %span= option[:label]
