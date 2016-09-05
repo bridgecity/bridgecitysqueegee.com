@@ -8,6 +8,7 @@ set :markdown, :fenced_code_blocks => true, :smartypants => true, :autolink => t
 set :layouts_dir, 'layouts'
 set :layout, 'layout'
 set :trailing_slash, true
+activate :directory_indexes
 
 # helpers do
 #   def some_helper
