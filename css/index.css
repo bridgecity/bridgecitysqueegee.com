@@ -29,31 +29,31 @@ hr {
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
 
-/* line 39, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
-.logo-background {
-  height: 525px;
-  background-color: rgba(0, 0, 0, 0.08); }
-
-/* line 44, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+/* line 40, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
 .white-logo {
   background-image: url(http://www.bridgecitysqueegee.com/img/logo.png);
+  background-attachment: scroll;
   background-size: cover;
-  background-position: top; }
+  background-position: top;
+  background-color: rgba(0, 0, 0, 0.08);
+  max-width: 80%; }
 
-/* line 50, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+/* line 49, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
 .notice-text-box {
   margin-left: 15%;
   width: 70%;
   background-color: rgba(0, 0, 0, 0.08); }
 
-/* line 56, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+/* line 55, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
 .notice {
-  height: 90px;
   padding: 5px;
-  overflow-y: scroll;
   font-size: 1.2em; }
 
-/* line 63, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+/* line 60, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
 .center-block {
   padding-top: 20%;
   margin: auto; }
+
+/* line 65, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+div.container.notice {
+  margin-bottom: 5%; }
