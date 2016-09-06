@@ -36,15 +36,14 @@ hr {
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0,0,0,0.2);
 }
-.logo-background {
-  height: 525px;
-  background-color: rgba(0,0,0,0.08);
-}
 
 .white-logo {
   background-image: url(http://www.bridgecitysqueegee.com/img/logo.png);
+  background-attachment: scroll;
   background-size: cover;
   background-position: top;
+  background-color: rgba(0,0,0,0.08);
+  max-width: 80%;
 }
 
 .notice-text-box {
@@ -54,13 +53,15 @@ hr {
 }
 
 .notice {
-  height: 90px;
   padding: 5px;
-  overflow-y: scroll;
   font-size: 1.2em;
 }
 
 .center-block {
   padding-top: 20%;
   margin: auto;
+}
+
+div.container.notice {
+  margin-bottom: 5%;
 }
