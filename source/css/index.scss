@@ -1,19 +1,35 @@
+body {
+  background-color: rgba(0,0,0,0.1);
+  font-family: "Driod serif"
+}
+
 h1 {
   text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.3),
                 0px 8px 13px rgba(0, 0, 0, 0.07),
                 0px 18px 23px rgba(0, 0, 0, 0.07);
+                font-weight: 700;
+                font-size: 5em;
 }
 
 h3 {
   text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.2),
                 0px 8px 13px rgba(0, 0, 0, 0.03),
                 0px 18px 23px rgba(0, 0, 0, 0.03);
+                font-size: 2em;
+}
+
+h3.notice {
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.2),
+                0px 8px 13px rgba(0, 0, 0, 0.03),
+                0px 18px 23px rgba(0, 0, 0, 0.03);
+                font-size: 1.8em;
 }
 
 a.btn {
   text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.2),
                 0px 8px 13px rgba(0, 0, 0, 0.05),
                 0px 18px 23px rgba(0, 0, 0, 0.05);
+                font-weight: bold;
 }
 
 hr {
@@ -22,7 +38,7 @@ hr {
 }
 .logo-background {
   height: 525px;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0,0,0,0.08);
 }
 
 .white-logo {
@@ -34,10 +50,17 @@ hr {
 .notice-text-box {
   margin-left: 15%;
   width: 70%;
-  background-color: rgba(0,0,0,0.4);
+  background-color: rgba(0,0,0,0.08);
 }
 
-#notice {
+.notice {
   height: 90px;
+  padding: 5px;
   overflow-y: scroll;
+  font-size: 1.2em;
+}
+
+.center-block {
+  padding-top: 20%;
+  margin: auto;
 }

@@ -4,5 +4,5 @@ banner:
   subheading: "Window Cleaning Done The Right Way"
   button:
     class: "btn-success btn-lg btn-block"
-    label: "FREE Quote!"
+    label: "Free Quote!"
     url: "/quote"
