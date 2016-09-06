@@ -1,38 +1,59 @@
-/* line 26, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+/* line 1, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+body {
+  background-color: rgba(0, 0, 0, 0.1);
+  font-family: "Driod serif"; }
+
+/* line 6, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
 h1 {
-  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.3), 0px 8px 13px rgba(0, 0, 0, 0.07), 0px 18px 23px rgba(0, 0, 0, 0.07); }
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.3), 0px 8px 13px rgba(0, 0, 0, 0.07), 0px 18px 23px rgba(0, 0, 0, 0.07);
+  font-weight: 700;
+  font-size: 5em; }
 
-/* line 32, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+/* line 14, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
 h3 {
-  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.2), 0px 8px 13px rgba(0, 0, 0, 0.03), 0px 18px 23px rgba(0, 0, 0, 0.03); }
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.2), 0px 8px 13px rgba(0, 0, 0, 0.03), 0px 18px 23px rgba(0, 0, 0, 0.03);
+  font-size: 2em; }
 
-/* line 38, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+/* line 21, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+h3.notice {
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.2), 0px 8px 13px rgba(0, 0, 0, 0.03), 0px 18px 23px rgba(0, 0, 0, 0.03);
+  font-size: 1.8em; }
+
+/* line 28, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
 a.btn {
-  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.2), 0px 8px 13px rgba(0, 0, 0, 0.05), 0px 18px 23px rgba(0, 0, 0, 0.05); }
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.2), 0px 8px 13px rgba(0, 0, 0, 0.05), 0px 18px 23px rgba(0, 0, 0, 0.05);
+  font-weight: bold; }
 
-/* line 44, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+/* line 35, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
 hr {
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
 
-/* line 49, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+/* line 39, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+.logo-background {
+  height: 525px;
+  background-color: rgba(0, 0, 0, 0.08); }
+
+/* line 44, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
 .white-logo {
   background-image: url(http://www.bridgecitysqueegee.com/img/logo.png);
   background-size: cover;
   background-position: top; }
 
-/* line 55, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+/* line 50, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
 .notice-text-box {
   margin-left: 15%;
   width: 70%;
-  background-color: rgba(0, 0, 0, 0.4); }
+  background-color: rgba(0, 0, 0, 0.08); }
 
-/* line 61, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
-.notice-background {
-  height: 550px;
-  background-color: rgba(0, 0, 0, 0.1); }
-
-/* line 66, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
-#notice {
+/* line 56, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+.notice {
   height: 90px;
-  overflow-y: scroll; }
+  padding: 5px;
+  overflow-y: scroll;
+  font-size: 1.2em; }
+
+/* line 63, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
+.center-block {
+  padding-top: 20%;
+  margin: auto; }
