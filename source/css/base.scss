@@ -4,3 +4,12 @@
 @import "bootstrap";
 @import "font-awesome-sprockets";
 @import "font-awesome";
+
+// Theme
+@import "text";
+@import "fonts";
+
+.section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+};
