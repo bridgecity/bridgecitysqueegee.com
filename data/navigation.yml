@@ -25,3 +25,6 @@ options:
 - icon:
     class: "fa fa-instagram"
   url: "https://instagram.com/bcsqueegee"
+- label: "(971) 645-9055"
+  url: "tel:9716459055"
+  class: "hidden-sm hidden-md hidden-lg"
