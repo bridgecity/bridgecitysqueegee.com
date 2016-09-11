@@ -1,0 +1,10 @@
+/* line 1, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/navbar.scss */
+.navbar {
+  margin-bottom: 0px; }
+
+/* line 5, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/navbar.scss */
+.navbar .navbar-header > a.navbar-brand > span,
+.navbar ul > li > a > span,
+.navbar span {
+  font-size: 20px;
+  line-height: 24px; }
