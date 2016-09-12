@@ -1,7 +1,6 @@
 require "fileutils"
-require "logger"
-require "middleman"
 require "git"
+require "pry"
 
 BUILD_DIR         = "public"
 BUILD_DIR_CONTENT = File.join(Dir.pwd,BUILD_DIR,".")
@@ -38,8 +37,9 @@ task :commit do
     puts "Switching back to original branch (#{original_branch})..."
     repo.branch(original_branch).checkout
     puts "SUCCESS!"
-  rescue
+  rescue => error
     puts "Something went wrong..."
+    binding.pry
   end
 end
 
