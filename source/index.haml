@@ -11,11 +11,10 @@ title: "Your Portland-area window-cleaning specialists."
         %img.img-responsive.logo{ src: content[:banner][:logo] }
       %div.col-sm-12
         %h3= content[:banner][:subheading]
-      %div.row
-        %div.col-xs-offset-3.col-xs-6.col-sm-offset-4.col-sm-4
-          %a.btn{ class: content[:banner][:button][:class] || "btn-default",
-                href: content[:banner][:button][:url],
-                role: "button" }= content[:banner][:button][:label]
+      %div.col-xs-offset-3.col-xs-6.col-sm-offset-4.col-sm-4
+        %a.btn{ class: content[:banner][:button][:class] || "btn-default",
+              href: content[:banner][:button][:url],
+              role: "button" }= content[:banner][:button][:label]
 
 %div.seasonal.section
   %div.container
