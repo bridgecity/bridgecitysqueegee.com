@@ -24,7 +24,7 @@ task :commit do
     Dir.mkdir(CACHE_DIR)
   end
   repo = Git.open(Dir.pwd)
-  original_branch = repo.branch.current_branch
+  original_branch = repo.current_branch
   begin
     puts "Copying build to temporary directory..."
     cp_r(BUILD_DIR_CONTENT,CACHE_DIR)
@@ -46,7 +46,7 @@ end
 desc "Deploy the website"
 task :deploy do
   repo = Git.open(Dir.pwd)
-  original_branch = repo.branch.current_branch
+  original_branch = repo.current_branch
   repo.branch(STATIC_BRANCH).checkout
   repo.push
   repo.branch(original_branch).checkout
