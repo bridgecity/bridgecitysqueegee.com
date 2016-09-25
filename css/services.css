@@ -1,3 +1,71 @@
 /* line 1, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
 h1 {
   color: red; }
+
+/* line 5, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+.just-for-fun {
+  border: 3px solid black; }
+
+/* line 9, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+.banner {
+  background-image: url("/img/background-windows-blur.jpg");
+  background-color: rgba(57, 158, 232, 0.9);
+  background-size: cover;
+  background-position: top; }
+
+/* line 16, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+.banner img .logo {
+  max-width: 100%;
+  height: auto; }
+
+/* line 21, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+.banner h1 {
+  color: white; }
+
+/* line 25, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+.banner h3 {
+  color: white; }
+
+/* line 29, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+.banner .btn {
+  margin-top: 30px;
+  margin-bottom: 30px; }
+
+/* line 34, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+.subtitle {
+  margin-top: 20%;
+  padding-top: 15px;
+  text-align: center;
+  background-color: rgba(57, 158, 232, 0.9);
+  color: white;
+  font-size: 18px; }
+
+/* line 43, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+.coverage {
+  color: white; }
+
+/* line 47, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+.services {
+  padding: 30px 15px; }
+
+/* line 51, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+.mission {
+  background-color: #e0e0e0;
+  color: #707070;
+  padding: 30px; }
+
+/* line 57, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+.contact {
+  color: black;
+  font-size: 12px;
+  padding-top: 10px;
+  background-color: #e0e0e0;
+  text-align: center; }
+
+@media screen and (max-width: 48em) {
+  /* line 66, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+  .banner {
+    text-align: center; } }
+/* line 71, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/services.scss */
+.info {
+  font-size: 16px; }

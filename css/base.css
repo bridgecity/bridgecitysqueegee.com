@@ -5,6 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+@import "https://fonts.googleapis.com/css?family=Droid+Sans";
 /* line 9, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/bootstrap-sass-3.3.6/assets/stylesheets/bootstrap/_normalize.scss */
 html {
   font-family: sans-serif;
@@ -10107,3 +10108,42 @@ button.close {
   margin: 0;
   overflow: visible;
   clip: auto; }
+
+/* line 2, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
+body p {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 1.3em;
+  line-height: 1.5em; }
+
+/* line 9, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
+h1, h2, h3, h4, h5, h6 {
+  margin: 15px 0px; }
+
+/* line 14, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
+h1 {
+  font-size: 4.0em; }
+
+/* line 18, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
+h2 {
+  font-size: 3.0em; }
+
+/* line 22, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
+h3 {
+  font-size: 2.5em; }
+
+/* line 26, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
+h4 {
+  font-size: 2.0em; }
+
+/* line 30, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
+h5 {
+  font-size: 1.75em; }
+
+/* line 34, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
+h6 {
+  font-size: 1.5em; }
+
+/* line 12, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/base.scss */
+.section {
+  padding-top: 50px;
+  padding-bottom: 50px; }
