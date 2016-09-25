@@ -6,7 +6,11 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 @import "https://fonts.googleapis.com/css?family=Droid+Sans";
+<<<<<<< HEAD
 /* line 9, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/bootstrap-sass-3.3.6/assets/stylesheets/bootstrap/_normalize.scss */
+=======
+/* line 9, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/bootstrap-sass-3.3.6/assets/stylesheets/bootstrap/_normalize.scss */
+>>>>>>> origin/gh-pages
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -7276,7 +7280,11 @@ button.close {
   src: url("../fonts/font-awesome/fontawesome-webfont.eot?v=4.6.2#iefix") format("embedded-opentype"), url("../fonts/font-awesome/fontawesome-webfont.woff2?v=4.6.2") format("woff2"), url("../fonts/font-awesome/fontawesome-webfont.woff?v=4.6.2") format("woff"), url("../fonts/font-awesome/fontawesome-webfont.ttf?v=4.6.2") format("truetype"), url("../fonts/font-awesome/fontawesome-webfont.svg?v=4.6.2#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal; }
+<<<<<<< HEAD
 /* line 4, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_core.scss */
+=======
+/* line 4, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_core.scss */
+>>>>>>> origin/gh-pages
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
@@ -7286,12 +7294,17 @@ button.close {
   -moz-osx-font-smoothing: grayscale; }
 
 /* makes the font 33% larger relative to the icon container */
+<<<<<<< HEAD
 /* line 6, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_larger.scss */
+=======
+/* line 6, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_larger.scss */
+>>>>>>> origin/gh-pages
 .fa-lg {
   font-size: 1.33333333em;
   line-height: 0.75em;
   vertical-align: -15%; }
 
+<<<<<<< HEAD
 /* line 11, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_larger.scss */
 .fa-2x {
   font-size: 2em; }
@@ -7309,36 +7322,76 @@ button.close {
   font-size: 5em; }
 
 /* line 3, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_fixed-width.scss */
+=======
+/* line 11, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_larger.scss */
+.fa-2x {
+  font-size: 2em; }
+
+/* line 12, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_larger.scss */
+.fa-3x {
+  font-size: 3em; }
+
+/* line 13, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_larger.scss */
+.fa-4x {
+  font-size: 4em; }
+
+/* line 14, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_larger.scss */
+.fa-5x {
+  font-size: 5em; }
+
+/* line 3, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_fixed-width.scss */
+>>>>>>> origin/gh-pages
 .fa-fw {
   width: 1.28571429em;
   text-align: center; }
 
+<<<<<<< HEAD
 /* line 4, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_list.scss */
+=======
+/* line 4, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_list.scss */
+>>>>>>> origin/gh-pages
 .fa-ul {
   padding-left: 0;
   margin-left: 2.14285714em;
   list-style-type: none; }
+<<<<<<< HEAD
   /* line 8, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_list.scss */
   .fa-ul > li {
     position: relative; }
 
 /* line 10, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_list.scss */
+=======
+  /* line 8, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_list.scss */
+  .fa-ul > li {
+    position: relative; }
+
+/* line 10, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_list.scss */
+>>>>>>> origin/gh-pages
 .fa-li {
   position: absolute;
   left: -2.14285714em;
   width: 2.14285714em;
   top: 0.14285714em;
   text-align: center; }
+<<<<<<< HEAD
   /* line 16, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_list.scss */
   .fa-li.fa-lg {
     left: -1.85714286em; }
 
 /* line 4, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
+=======
+  /* line 16, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_list.scss */
+  .fa-li.fa-lg {
+    left: -1.85714286em; }
+
+/* line 4, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
+>>>>>>> origin/gh-pages
 .fa-border {
   padding: .2em .25em .15em;
   border: solid 0.08em #eee;
   border-radius: .1em; }
 
+<<<<<<< HEAD
 /* line 10, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
 .fa-pull-left {
   float: left; }
@@ -7351,10 +7404,25 @@ button.close {
 .fa.fa-pull-left {
   margin-right: .3em; }
 /* line 15, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
+=======
+/* line 10, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
+.fa-pull-left {
+  float: left; }
+
+/* line 11, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
+.fa-pull-right {
+  float: right; }
+
+/* line 14, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
+.fa.fa-pull-left {
+  margin-right: .3em; }
+/* line 15, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
+>>>>>>> origin/gh-pages
 .fa.fa-pull-right {
   margin-left: .3em; }
 
 /* Deprecated as of 4.4.0 */
+<<<<<<< HEAD
 /* line 19, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
 .pull-right {
   float: right; }
@@ -7371,11 +7439,33 @@ button.close {
   margin-left: .3em; }
 
 /* line 4, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_animated.scss */
+=======
+/* line 19, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
+.pull-right {
+  float: right; }
+
+/* line 20, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
+.pull-left {
+  float: left; }
+
+/* line 23, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
+.fa.pull-left {
+  margin-right: .3em; }
+/* line 24, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_bordered-pulled.scss */
+.fa.pull-right {
+  margin-left: .3em; }
+
+/* line 4, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_animated.scss */
+>>>>>>> origin/gh-pages
 .fa-spin {
   -webkit-animation: fa-spin 2s infinite linear;
   animation: fa-spin 2s infinite linear; }
 
+<<<<<<< HEAD
 /* line 9, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_animated.scss */
+=======
+/* line 9, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_animated.scss */
+>>>>>>> origin/gh-pages
 .fa-pulse {
   -webkit-animation: fa-spin 1s infinite steps(8);
   animation: fa-spin 1s infinite steps(8); }
@@ -7394,42 +7484,66 @@ button.close {
   100% {
     -webkit-transform: rotate(359deg);
     transform: rotate(359deg); } }
+<<<<<<< HEAD
 /* line 4, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_rotated-flipped.scss */
+=======
+/* line 4, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_rotated-flipped.scss */
+>>>>>>> origin/gh-pages
 .fa-rotate-90 {
   -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
   -webkit-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   transform: rotate(90deg); }
 
+<<<<<<< HEAD
 /* line 5, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_rotated-flipped.scss */
+=======
+/* line 5, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_rotated-flipped.scss */
+>>>>>>> origin/gh-pages
 .fa-rotate-180 {
   -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
   -webkit-transform: rotate(180deg);
   -ms-transform: rotate(180deg);
   transform: rotate(180deg); }
 
+<<<<<<< HEAD
 /* line 6, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_rotated-flipped.scss */
+=======
+/* line 6, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_rotated-flipped.scss */
+>>>>>>> origin/gh-pages
 .fa-rotate-270 {
   -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
   -webkit-transform: rotate(270deg);
   -ms-transform: rotate(270deg);
   transform: rotate(270deg); }
 
+<<<<<<< HEAD
 /* line 8, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_rotated-flipped.scss */
+=======
+/* line 8, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_rotated-flipped.scss */
+>>>>>>> origin/gh-pages
 .fa-flip-horizontal {
   -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
   -webkit-transform: scale(-1, 1);
   -ms-transform: scale(-1, 1);
   transform: scale(-1, 1); }
 
+<<<<<<< HEAD
 /* line 9, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_rotated-flipped.scss */
+=======
+/* line 9, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_rotated-flipped.scss */
+>>>>>>> origin/gh-pages
 .fa-flip-vertical {
   -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
   -webkit-transform: scale(1, -1);
   -ms-transform: scale(1, -1);
   transform: scale(1, -1); }
 
+<<<<<<< HEAD
 /* line 14, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_rotated-flipped.scss */
+=======
+/* line 14, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_rotated-flipped.scss */
+>>>>>>> origin/gh-pages
 :root .fa-rotate-90,
 :root .fa-rotate-180,
 :root .fa-rotate-270,
@@ -7437,7 +7551,11 @@ button.close {
 :root .fa-flip-vertical {
   filter: none; }
 
+<<<<<<< HEAD
 /* line 4, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_stacked.scss */
+=======
+/* line 4, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_stacked.scss */
+>>>>>>> origin/gh-pages
 .fa-stack {
   position: relative;
   display: inline-block;
@@ -7446,13 +7564,18 @@ button.close {
   line-height: 2em;
   vertical-align: middle; }
 
+<<<<<<< HEAD
 /* line 12, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_stacked.scss */
+=======
+/* line 12, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_stacked.scss */
+>>>>>>> origin/gh-pages
 .fa-stack-1x, .fa-stack-2x {
   position: absolute;
   left: 0;
   width: 100%;
   text-align: center; }
 
+<<<<<<< HEAD
 /* line 18, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_stacked.scss */
 .fa-stack-1x {
   line-height: inherit; }
@@ -7462,11 +7585,23 @@ button.close {
   font-size: 2em; }
 
 /* line 20, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_stacked.scss */
+=======
+/* line 18, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_stacked.scss */
+.fa-stack-1x {
+  line-height: inherit; }
+
+/* line 19, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_stacked.scss */
+.fa-stack-2x {
+  font-size: 2em; }
+
+/* line 20, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_stacked.scss */
+>>>>>>> origin/gh-pages
 .fa-inverse {
   color: #fff; }
 
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
+<<<<<<< HEAD
 /* line 5, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-glass:before {
   content: ""; }
@@ -7520,11 +7655,67 @@ button.close {
   content: ""; }
 
 /* line 18, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 5, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-glass:before {
+  content: ""; }
+
+/* line 6, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-music:before {
+  content: ""; }
+
+/* line 7, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-search:before {
+  content: ""; }
+
+/* line 8, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-envelope-o:before {
+  content: ""; }
+
+/* line 9, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-heart:before {
+  content: ""; }
+
+/* line 10, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-star:before {
+  content: ""; }
+
+/* line 11, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-star-o:before {
+  content: ""; }
+
+/* line 12, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-user:before {
+  content: ""; }
+
+/* line 13, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-film:before {
+  content: ""; }
+
+/* line 14, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-th-large:before {
+  content: ""; }
+
+/* line 15, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-th:before {
+  content: ""; }
+
+/* line 16, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-th-list:before {
+  content: ""; }
+
+/* line 17, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-check:before {
+  content: ""; }
+
+/* line 18, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-remove:before,
 .fa-close:before,
 .fa-times:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 21, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-search-plus:before {
   content: ""; }
@@ -7542,10 +7733,30 @@ button.close {
   content: ""; }
 
 /* line 25, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 21, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-search-plus:before {
+  content: ""; }
+
+/* line 22, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-search-minus:before {
+  content: ""; }
+
+/* line 23, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-power-off:before {
+  content: ""; }
+
+/* line 24, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-signal:before {
+  content: ""; }
+
+/* line 25, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-gear:before,
 .fa-cog:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 27, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-trash-o:before {
   content: ""; }
@@ -7587,10 +7798,54 @@ button.close {
   content: ""; }
 
 /* line 37, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 27, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-trash-o:before {
+  content: ""; }
+
+/* line 28, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-home:before {
+  content: ""; }
+
+/* line 29, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-file-o:before {
+  content: ""; }
+
+/* line 30, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-clock-o:before {
+  content: ""; }
+
+/* line 31, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-road:before {
+  content: ""; }
+
+/* line 32, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-download:before {
+  content: ""; }
+
+/* line 33, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrow-circle-o-down:before {
+  content: ""; }
+
+/* line 34, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrow-circle-o-up:before {
+  content: ""; }
+
+/* line 35, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-inbox:before {
+  content: ""; }
+
+/* line 36, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-play-circle-o:before {
+  content: ""; }
+
+/* line 37, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-rotate-right:before,
 .fa-repeat:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 39, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-refresh:before {
   content: ""; }
@@ -7696,10 +7951,118 @@ button.close {
   content: ""; }
 
 /* line 65, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 39, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-refresh:before {
+  content: ""; }
+
+/* line 40, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-list-alt:before {
+  content: ""; }
+
+/* line 41, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-lock:before {
+  content: ""; }
+
+/* line 42, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-flag:before {
+  content: ""; }
+
+/* line 43, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-headphones:before {
+  content: ""; }
+
+/* line 44, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-volume-off:before {
+  content: ""; }
+
+/* line 45, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-volume-down:before {
+  content: ""; }
+
+/* line 46, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-volume-up:before {
+  content: ""; }
+
+/* line 47, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-qrcode:before {
+  content: ""; }
+
+/* line 48, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-barcode:before {
+  content: ""; }
+
+/* line 49, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-tag:before {
+  content: ""; }
+
+/* line 50, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-tags:before {
+  content: ""; }
+
+/* line 51, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-book:before {
+  content: ""; }
+
+/* line 52, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bookmark:before {
+  content: ""; }
+
+/* line 53, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-print:before {
+  content: ""; }
+
+/* line 54, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-camera:before {
+  content: ""; }
+
+/* line 55, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-font:before {
+  content: ""; }
+
+/* line 56, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bold:before {
+  content: ""; }
+
+/* line 57, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-italic:before {
+  content: ""; }
+
+/* line 58, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-text-height:before {
+  content: ""; }
+
+/* line 59, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-text-width:before {
+  content: ""; }
+
+/* line 60, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-align-left:before {
+  content: ""; }
+
+/* line 61, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-align-center:before {
+  content: ""; }
+
+/* line 62, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-align-right:before {
+  content: ""; }
+
+/* line 63, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-align-justify:before {
+  content: ""; }
+
+/* line 64, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-list:before {
+  content: ""; }
+
+/* line 65, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-dedent:before,
 .fa-outdent:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 67, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-indent:before {
   content: ""; }
@@ -7709,11 +8072,23 @@ button.close {
   content: ""; }
 
 /* line 69, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 67, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-indent:before {
+  content: ""; }
+
+/* line 68, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-video-camera:before {
+  content: ""; }
+
+/* line 69, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-photo:before,
 .fa-image:before,
 .fa-picture-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 72, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-pencil:before {
   content: ""; }
@@ -7731,10 +8106,30 @@ button.close {
   content: ""; }
 
 /* line 76, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 72, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pencil:before {
+  content: ""; }
+
+/* line 73, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-map-marker:before {
+  content: ""; }
+
+/* line 74, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-adjust:before {
+  content: ""; }
+
+/* line 75, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-tint:before {
+  content: ""; }
+
+/* line 76, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-edit:before,
 .fa-pencil-square-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 78, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-share-square-o:before {
   content: ""; }
@@ -7852,10 +8247,130 @@ button.close {
   content: ""; }
 
 /* line 107, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 78, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-share-square-o:before {
+  content: ""; }
+
+/* line 79, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-check-square-o:before {
+  content: ""; }
+
+/* line 80, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrows:before {
+  content: ""; }
+
+/* line 81, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-step-backward:before {
+  content: ""; }
+
+/* line 82, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-fast-backward:before {
+  content: ""; }
+
+/* line 83, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-backward:before {
+  content: ""; }
+
+/* line 84, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-play:before {
+  content: ""; }
+
+/* line 85, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pause:before {
+  content: ""; }
+
+/* line 86, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-stop:before {
+  content: ""; }
+
+/* line 87, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-forward:before {
+  content: ""; }
+
+/* line 88, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-fast-forward:before {
+  content: ""; }
+
+/* line 89, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-step-forward:before {
+  content: ""; }
+
+/* line 90, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-eject:before {
+  content: ""; }
+
+/* line 91, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-chevron-left:before {
+  content: ""; }
+
+/* line 92, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-chevron-right:before {
+  content: ""; }
+
+/* line 93, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-plus-circle:before {
+  content: ""; }
+
+/* line 94, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-minus-circle:before {
+  content: ""; }
+
+/* line 95, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-times-circle:before {
+  content: ""; }
+
+/* line 96, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-check-circle:before {
+  content: ""; }
+
+/* line 97, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-question-circle:before {
+  content: ""; }
+
+/* line 98, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-info-circle:before {
+  content: ""; }
+
+/* line 99, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-crosshairs:before {
+  content: ""; }
+
+/* line 100, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-times-circle-o:before {
+  content: ""; }
+
+/* line 101, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-check-circle-o:before {
+  content: ""; }
+
+/* line 102, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-ban:before {
+  content: ""; }
+
+/* line 103, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrow-left:before {
+  content: ""; }
+
+/* line 104, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrow-right:before {
+  content: ""; }
+
+/* line 105, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrow-up:before {
+  content: ""; }
+
+/* line 106, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrow-down:before {
+  content: ""; }
+
+/* line 107, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-mail-forward:before,
 .fa-share:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 109, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-expand:before {
   content: ""; }
@@ -7901,10 +8416,58 @@ button.close {
   content: ""; }
 
 /* line 120, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 109, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-expand:before {
+  content: ""; }
+
+/* line 110, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-compress:before {
+  content: ""; }
+
+/* line 111, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-plus:before {
+  content: ""; }
+
+/* line 112, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-minus:before {
+  content: ""; }
+
+/* line 113, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-asterisk:before {
+  content: ""; }
+
+/* line 114, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-exclamation-circle:before {
+  content: ""; }
+
+/* line 115, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-gift:before {
+  content: ""; }
+
+/* line 116, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-leaf:before {
+  content: ""; }
+
+/* line 117, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-fire:before {
+  content: ""; }
+
+/* line 118, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-eye:before {
+  content: ""; }
+
+/* line 119, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-eye-slash:before {
+  content: ""; }
+
+/* line 120, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-warning:before,
 .fa-exclamation-triangle:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 122, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-plane:before {
   content: ""; }
@@ -7958,10 +8521,66 @@ button.close {
   content: ""; }
 
 /* line 135, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 122, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-plane:before {
+  content: ""; }
+
+/* line 123, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-calendar:before {
+  content: ""; }
+
+/* line 124, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-random:before {
+  content: ""; }
+
+/* line 125, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-comment:before {
+  content: ""; }
+
+/* line 126, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-magnet:before {
+  content: ""; }
+
+/* line 127, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-chevron-up:before {
+  content: ""; }
+
+/* line 128, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-chevron-down:before {
+  content: ""; }
+
+/* line 129, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-retweet:before {
+  content: ""; }
+
+/* line 130, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-shopping-cart:before {
+  content: ""; }
+
+/* line 131, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-folder:before {
+  content: ""; }
+
+/* line 132, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-folder-open:before {
+  content: ""; }
+
+/* line 133, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrows-v:before {
+  content: ""; }
+
+/* line 134, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrows-h:before {
+  content: ""; }
+
+/* line 135, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-bar-chart-o:before,
 .fa-bar-chart:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 137, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-twitter-square:before {
   content: ""; }
@@ -7979,10 +8598,30 @@ button.close {
   content: ""; }
 
 /* line 141, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 137, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-twitter-square:before {
+  content: ""; }
+
+/* line 138, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-facebook-square:before {
+  content: ""; }
+
+/* line 139, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-camera-retro:before {
+  content: ""; }
+
+/* line 140, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-key:before {
+  content: ""; }
+
+/* line 141, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-gears:before,
 .fa-cogs:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 143, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-comments:before {
   content: ""; }
@@ -8060,10 +8699,90 @@ button.close {
   content: ""; }
 
 /* line 162, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 143, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-comments:before {
+  content: ""; }
+
+/* line 144, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-thumbs-o-up:before {
+  content: ""; }
+
+/* line 145, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-thumbs-o-down:before {
+  content: ""; }
+
+/* line 146, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-star-half:before {
+  content: ""; }
+
+/* line 147, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-heart-o:before {
+  content: ""; }
+
+/* line 148, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sign-out:before {
+  content: ""; }
+
+/* line 149, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-linkedin-square:before {
+  content: ""; }
+
+/* line 150, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-thumb-tack:before {
+  content: ""; }
+
+/* line 151, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-external-link:before {
+  content: ""; }
+
+/* line 152, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sign-in:before {
+  content: ""; }
+
+/* line 153, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-trophy:before {
+  content: ""; }
+
+/* line 154, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-github-square:before {
+  content: ""; }
+
+/* line 155, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-upload:before {
+  content: ""; }
+
+/* line 156, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-lemon-o:before {
+  content: ""; }
+
+/* line 157, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-phone:before {
+  content: ""; }
+
+/* line 158, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-square-o:before {
+  content: ""; }
+
+/* line 159, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bookmark-o:before {
+  content: ""; }
+
+/* line 160, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-phone-square:before {
+  content: ""; }
+
+/* line 161, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-twitter:before {
+  content: ""; }
+
+/* line 162, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-facebook-f:before,
 .fa-facebook:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 164, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-github:before {
   content: ""; }
@@ -8077,10 +8796,26 @@ button.close {
   content: ""; }
 
 /* line 167, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 164, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-github:before {
+  content: ""; }
+
+/* line 165, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-unlock:before {
+  content: ""; }
+
+/* line 166, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-credit-card:before {
+  content: ""; }
+
+/* line 167, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-feed:before,
 .fa-rss:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 169, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-hdd-o:before {
   content: ""; }
@@ -8154,15 +8889,95 @@ button.close {
   content: ""; }
 
 /* line 187, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 169, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hdd-o:before {
+  content: ""; }
+
+/* line 170, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bullhorn:before {
+  content: ""; }
+
+/* line 171, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bell:before {
+  content: ""; }
+
+/* line 172, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-certificate:before {
+  content: ""; }
+
+/* line 173, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hand-o-right:before {
+  content: ""; }
+
+/* line 174, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hand-o-left:before {
+  content: ""; }
+
+/* line 175, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hand-o-up:before {
+  content: ""; }
+
+/* line 176, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hand-o-down:before {
+  content: ""; }
+
+/* line 177, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrow-circle-left:before {
+  content: ""; }
+
+/* line 178, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrow-circle-right:before {
+  content: ""; }
+
+/* line 179, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrow-circle-up:before {
+  content: ""; }
+
+/* line 180, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrow-circle-down:before {
+  content: ""; }
+
+/* line 181, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-globe:before {
+  content: ""; }
+
+/* line 182, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-wrench:before {
+  content: ""; }
+
+/* line 183, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-tasks:before {
+  content: ""; }
+
+/* line 184, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-filter:before {
+  content: ""; }
+
+/* line 185, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-briefcase:before {
+  content: ""; }
+
+/* line 186, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrows-alt:before {
+  content: ""; }
+
+/* line 187, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-group:before,
 .fa-users:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 189, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 189, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-chain:before,
 .fa-link:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 191, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-cloud:before {
   content: ""; }
@@ -8172,34 +8987,66 @@ button.close {
   content: ""; }
 
 /* line 193, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 191, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cloud:before {
+  content: ""; }
+
+/* line 192, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-flask:before {
+  content: ""; }
+
+/* line 193, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-cut:before,
 .fa-scissors:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 195, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 195, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-copy:before,
 .fa-files-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 197, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-paperclip:before {
   content: ""; }
 
 /* line 198, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 197, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-paperclip:before {
+  content: ""; }
+
+/* line 198, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-save:before,
 .fa-floppy-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 200, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-square:before {
   content: ""; }
 
 /* line 201, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 200, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-square:before {
+  content: ""; }
+
+/* line 201, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-navicon:before,
 .fa-reorder:before,
 .fa-bars:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 204, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-list-ul:before {
   content: ""; }
@@ -8269,20 +9116,100 @@ button.close {
   content: ""; }
 
 /* line 221, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 204, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-list-ul:before {
+  content: ""; }
+
+/* line 205, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-list-ol:before {
+  content: ""; }
+
+/* line 206, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-strikethrough:before {
+  content: ""; }
+
+/* line 207, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-underline:before {
+  content: ""; }
+
+/* line 208, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-table:before {
+  content: ""; }
+
+/* line 209, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-magic:before {
+  content: ""; }
+
+/* line 210, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-truck:before {
+  content: ""; }
+
+/* line 211, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pinterest:before {
+  content: ""; }
+
+/* line 212, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pinterest-square:before {
+  content: ""; }
+
+/* line 213, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-google-plus-square:before {
+  content: ""; }
+
+/* line 214, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-google-plus:before {
+  content: ""; }
+
+/* line 215, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-money:before {
+  content: ""; }
+
+/* line 216, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-caret-down:before {
+  content: ""; }
+
+/* line 217, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-caret-up:before {
+  content: ""; }
+
+/* line 218, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-caret-left:before {
+  content: ""; }
+
+/* line 219, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-caret-right:before {
+  content: ""; }
+
+/* line 220, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-columns:before {
+  content: ""; }
+
+/* line 221, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-unsorted:before,
 .fa-sort:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 223, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 223, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-sort-down:before,
 .fa-sort-desc:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 225, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 225, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-sort-up:before,
 .fa-sort-asc:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 227, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-envelope:before {
   content: ""; }
@@ -8292,20 +9219,40 @@ button.close {
   content: ""; }
 
 /* line 229, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 227, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-envelope:before {
+  content: ""; }
+
+/* line 228, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-linkedin:before {
+  content: ""; }
+
+/* line 229, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-rotate-left:before,
 .fa-undo:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 231, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 231, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-legal:before,
 .fa-gavel:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 233, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 233, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-dashboard:before,
 .fa-tachometer:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 235, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-comment-o:before {
   content: ""; }
@@ -8315,10 +9262,22 @@ button.close {
   content: ""; }
 
 /* line 237, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 235, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-comment-o:before {
+  content: ""; }
+
+/* line 236, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-comments-o:before {
+  content: ""; }
+
+/* line 237, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-flash:before,
 .fa-bolt:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 239, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-sitemap:before {
   content: ""; }
@@ -8328,10 +9287,22 @@ button.close {
   content: ""; }
 
 /* line 241, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 239, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sitemap:before {
+  content: ""; }
+
+/* line 240, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-umbrella:before {
+  content: ""; }
+
+/* line 241, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-paste:before,
 .fa-clipboard:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 243, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-lightbulb-o:before {
   content: ""; }
@@ -8453,10 +9424,134 @@ button.close {
   content: ""; }
 
 /* line 273, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 243, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-lightbulb-o:before {
+  content: ""; }
+
+/* line 244, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-exchange:before {
+  content: ""; }
+
+/* line 245, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cloud-download:before {
+  content: ""; }
+
+/* line 246, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cloud-upload:before {
+  content: ""; }
+
+/* line 247, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-user-md:before {
+  content: ""; }
+
+/* line 248, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-stethoscope:before {
+  content: ""; }
+
+/* line 249, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-suitcase:before {
+  content: ""; }
+
+/* line 250, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bell-o:before {
+  content: ""; }
+
+/* line 251, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-coffee:before {
+  content: ""; }
+
+/* line 252, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cutlery:before {
+  content: ""; }
+
+/* line 253, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-file-text-o:before {
+  content: ""; }
+
+/* line 254, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-building-o:before {
+  content: ""; }
+
+/* line 255, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hospital-o:before {
+  content: ""; }
+
+/* line 256, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-ambulance:before {
+  content: ""; }
+
+/* line 257, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-medkit:before {
+  content: ""; }
+
+/* line 258, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-fighter-jet:before {
+  content: ""; }
+
+/* line 259, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-beer:before {
+  content: ""; }
+
+/* line 260, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-h-square:before {
+  content: ""; }
+
+/* line 261, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-plus-square:before {
+  content: ""; }
+
+/* line 262, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-angle-double-left:before {
+  content: ""; }
+
+/* line 263, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-angle-double-right:before {
+  content: ""; }
+
+/* line 264, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-angle-double-up:before {
+  content: ""; }
+
+/* line 265, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-angle-double-down:before {
+  content: ""; }
+
+/* line 266, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-angle-left:before {
+  content: ""; }
+
+/* line 267, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-angle-right:before {
+  content: ""; }
+
+/* line 268, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-angle-up:before {
+  content: ""; }
+
+/* line 269, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-angle-down:before {
+  content: ""; }
+
+/* line 270, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-desktop:before {
+  content: ""; }
+
+/* line 271, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-laptop:before {
+  content: ""; }
+
+/* line 272, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-tablet:before {
+  content: ""; }
+
+/* line 273, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-mobile-phone:before,
 .fa-mobile:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 275, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-circle-o:before {
   content: ""; }
@@ -8478,10 +9573,34 @@ button.close {
   content: ""; }
 
 /* line 280, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 275, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-circle-o:before {
+  content: ""; }
+
+/* line 276, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-quote-left:before {
+  content: ""; }
+
+/* line 277, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-quote-right:before {
+  content: ""; }
+
+/* line 278, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-spinner:before {
+  content: ""; }
+
+/* line 279, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-circle:before {
+  content: ""; }
+
+/* line 280, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-mail-reply:before,
 .fa-reply:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 282, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-github-alt:before {
   content: ""; }
@@ -8531,16 +9650,72 @@ button.close {
   content: ""; }
 
 /* line 294, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 282, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-github-alt:before {
+  content: ""; }
+
+/* line 283, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-folder-o:before {
+  content: ""; }
+
+/* line 284, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-folder-open-o:before {
+  content: ""; }
+
+/* line 285, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-smile-o:before {
+  content: ""; }
+
+/* line 286, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-frown-o:before {
+  content: ""; }
+
+/* line 287, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-meh-o:before {
+  content: ""; }
+
+/* line 288, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-gamepad:before {
+  content: ""; }
+
+/* line 289, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-keyboard-o:before {
+  content: ""; }
+
+/* line 290, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-flag-o:before {
+  content: ""; }
+
+/* line 291, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-flag-checkered:before {
+  content: ""; }
+
+/* line 292, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-terminal:before {
+  content: ""; }
+
+/* line 293, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-code:before {
+  content: ""; }
+
+/* line 294, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-mail-reply-all:before,
 .fa-reply-all:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 296, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 296, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-star-half-empty:before,
 .fa-star-half-full:before,
 .fa-star-half-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 299, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-location-arrow:before {
   content: ""; }
@@ -8554,10 +9729,26 @@ button.close {
   content: ""; }
 
 /* line 302, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 299, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-location-arrow:before {
+  content: ""; }
+
+/* line 300, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-crop:before {
+  content: ""; }
+
+/* line 301, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-code-fork:before {
+  content: ""; }
+
+/* line 302, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-unlink:before,
 .fa-chain-broken:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 304, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-question:before {
   content: ""; }
@@ -8707,62 +9898,254 @@ button.close {
   content: ""; }
 
 /* line 341, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 304, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-question:before {
+  content: ""; }
+
+/* line 305, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-info:before {
+  content: ""; }
+
+/* line 306, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-exclamation:before {
+  content: ""; }
+
+/* line 307, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-superscript:before {
+  content: ""; }
+
+/* line 308, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-subscript:before {
+  content: ""; }
+
+/* line 309, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-eraser:before {
+  content: ""; }
+
+/* line 310, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-puzzle-piece:before {
+  content: ""; }
+
+/* line 311, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-microphone:before {
+  content: ""; }
+
+/* line 312, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-microphone-slash:before {
+  content: ""; }
+
+/* line 313, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-shield:before {
+  content: ""; }
+
+/* line 314, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-calendar-o:before {
+  content: ""; }
+
+/* line 315, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-fire-extinguisher:before {
+  content: ""; }
+
+/* line 316, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-rocket:before {
+  content: ""; }
+
+/* line 317, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-maxcdn:before {
+  content: ""; }
+
+/* line 318, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-chevron-circle-left:before {
+  content: ""; }
+
+/* line 319, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-chevron-circle-right:before {
+  content: ""; }
+
+/* line 320, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-chevron-circle-up:before {
+  content: ""; }
+
+/* line 321, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-chevron-circle-down:before {
+  content: ""; }
+
+/* line 322, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-html5:before {
+  content: ""; }
+
+/* line 323, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-css3:before {
+  content: ""; }
+
+/* line 324, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-anchor:before {
+  content: ""; }
+
+/* line 325, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-unlock-alt:before {
+  content: ""; }
+
+/* line 326, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bullseye:before {
+  content: ""; }
+
+/* line 327, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-ellipsis-h:before {
+  content: ""; }
+
+/* line 328, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-ellipsis-v:before {
+  content: ""; }
+
+/* line 329, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-rss-square:before {
+  content: ""; }
+
+/* line 330, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-play-circle:before {
+  content: ""; }
+
+/* line 331, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-ticket:before {
+  content: ""; }
+
+/* line 332, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-minus-square:before {
+  content: ""; }
+
+/* line 333, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-minus-square-o:before {
+  content: ""; }
+
+/* line 334, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-level-up:before {
+  content: ""; }
+
+/* line 335, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-level-down:before {
+  content: ""; }
+
+/* line 336, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-check-square:before {
+  content: ""; }
+
+/* line 337, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pencil-square:before {
+  content: ""; }
+
+/* line 338, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-external-link-square:before {
+  content: ""; }
+
+/* line 339, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-share-square:before {
+  content: ""; }
+
+/* line 340, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-compass:before {
+  content: ""; }
+
+/* line 341, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-toggle-down:before,
 .fa-caret-square-o-down:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 343, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 343, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-toggle-up:before,
 .fa-caret-square-o-up:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 345, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 345, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-toggle-right:before,
 .fa-caret-square-o-right:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 347, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 347, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-euro:before,
 .fa-eur:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 349, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-gbp:before {
   content: ""; }
 
 /* line 350, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 349, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-gbp:before {
+  content: ""; }
+
+/* line 350, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-dollar:before,
 .fa-usd:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 352, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 352, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-rupee:before,
 .fa-inr:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 354, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 354, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-cny:before,
 .fa-rmb:before,
 .fa-yen:before,
 .fa-jpy:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 358, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 358, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-ruble:before,
 .fa-rouble:before,
 .fa-rub:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 361, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 361, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-won:before,
 .fa-krw:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 363, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 363, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-bitcoin:before,
 .fa-btc:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 365, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-file:before {
   content: ""; }
@@ -8916,10 +10299,166 @@ button.close {
   content: ""; }
 
 /* line 403, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 365, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-file:before {
+  content: ""; }
+
+/* line 366, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-file-text:before {
+  content: ""; }
+
+/* line 367, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sort-alpha-asc:before {
+  content: ""; }
+
+/* line 368, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sort-alpha-desc:before {
+  content: ""; }
+
+/* line 369, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sort-amount-asc:before {
+  content: ""; }
+
+/* line 370, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sort-amount-desc:before {
+  content: ""; }
+
+/* line 371, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sort-numeric-asc:before {
+  content: ""; }
+
+/* line 372, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sort-numeric-desc:before {
+  content: ""; }
+
+/* line 373, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-thumbs-up:before {
+  content: ""; }
+
+/* line 374, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-thumbs-down:before {
+  content: ""; }
+
+/* line 375, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-youtube-square:before {
+  content: ""; }
+
+/* line 376, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-youtube:before {
+  content: ""; }
+
+/* line 377, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-xing:before {
+  content: ""; }
+
+/* line 378, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-xing-square:before {
+  content: ""; }
+
+/* line 379, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-youtube-play:before {
+  content: ""; }
+
+/* line 380, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-dropbox:before {
+  content: ""; }
+
+/* line 381, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-stack-overflow:before {
+  content: ""; }
+
+/* line 382, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-instagram:before {
+  content: ""; }
+
+/* line 383, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-flickr:before {
+  content: ""; }
+
+/* line 384, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-adn:before {
+  content: ""; }
+
+/* line 385, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bitbucket:before {
+  content: ""; }
+
+/* line 386, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bitbucket-square:before {
+  content: ""; }
+
+/* line 387, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-tumblr:before {
+  content: ""; }
+
+/* line 388, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-tumblr-square:before {
+  content: ""; }
+
+/* line 389, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-long-arrow-down:before {
+  content: ""; }
+
+/* line 390, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-long-arrow-up:before {
+  content: ""; }
+
+/* line 391, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-long-arrow-left:before {
+  content: ""; }
+
+/* line 392, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-long-arrow-right:before {
+  content: ""; }
+
+/* line 393, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-apple:before {
+  content: ""; }
+
+/* line 394, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-windows:before {
+  content: ""; }
+
+/* line 395, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-android:before {
+  content: ""; }
+
+/* line 396, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-linux:before {
+  content: ""; }
+
+/* line 397, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-dribbble:before {
+  content: ""; }
+
+/* line 398, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-skype:before {
+  content: ""; }
+
+/* line 399, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-foursquare:before {
+  content: ""; }
+
+/* line 400, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-trello:before {
+  content: ""; }
+
+/* line 401, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-female:before {
+  content: ""; }
+
+/* line 402, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-male:before {
+  content: ""; }
+
+/* line 403, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-gittip:before,
 .fa-gratipay:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 405, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-sun-o:before {
   content: ""; }
@@ -8965,10 +10504,58 @@ button.close {
   content: ""; }
 
 /* line 416, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 405, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sun-o:before {
+  content: ""; }
+
+/* line 406, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-moon-o:before {
+  content: ""; }
+
+/* line 407, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-archive:before {
+  content: ""; }
+
+/* line 408, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bug:before {
+  content: ""; }
+
+/* line 409, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-vk:before {
+  content: ""; }
+
+/* line 410, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-weibo:before {
+  content: ""; }
+
+/* line 411, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-renren:before {
+  content: ""; }
+
+/* line 412, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pagelines:before {
+  content: ""; }
+
+/* line 413, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-stack-exchange:before {
+  content: ""; }
+
+/* line 414, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrow-circle-o-right:before {
+  content: ""; }
+
+/* line 415, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-arrow-circle-o-left:before {
+  content: ""; }
+
+/* line 416, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-toggle-left:before,
 .fa-caret-square-o-left:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 418, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-dot-circle-o:before {
   content: ""; }
@@ -8982,10 +10569,26 @@ button.close {
   content: ""; }
 
 /* line 421, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 418, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-dot-circle-o:before {
+  content: ""; }
+
+/* line 419, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-wheelchair:before {
+  content: ""; }
+
+/* line 420, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-vimeo-square:before {
+  content: ""; }
+
+/* line 421, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-turkish-lira:before,
 .fa-try:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 423, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-plus-square-o:before {
   content: ""; }
@@ -9011,16 +10614,48 @@ button.close {
   content: ""; }
 
 /* line 429, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 423, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-plus-square-o:before {
+  content: ""; }
+
+/* line 424, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-space-shuttle:before {
+  content: ""; }
+
+/* line 425, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-slack:before {
+  content: ""; }
+
+/* line 426, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-envelope-square:before {
+  content: ""; }
+
+/* line 427, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-wordpress:before {
+  content: ""; }
+
+/* line 428, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-openid:before {
+  content: ""; }
+
+/* line 429, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-institution:before,
 .fa-bank:before,
 .fa-university:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 432, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 432, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-mortar-board:before,
 .fa-graduation-cap:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 434, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-yahoo:before {
   content: ""; }
@@ -9122,15 +10757,123 @@ button.close {
   content: ""; }
 
 /* line 459, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 434, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-yahoo:before {
+  content: ""; }
+
+/* line 435, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-google:before {
+  content: ""; }
+
+/* line 436, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-reddit:before {
+  content: ""; }
+
+/* line 437, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-reddit-square:before {
+  content: ""; }
+
+/* line 438, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-stumbleupon-circle:before {
+  content: ""; }
+
+/* line 439, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-stumbleupon:before {
+  content: ""; }
+
+/* line 440, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-delicious:before {
+  content: ""; }
+
+/* line 441, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-digg:before {
+  content: ""; }
+
+/* line 442, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pied-piper-pp:before {
+  content: ""; }
+
+/* line 443, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pied-piper-alt:before {
+  content: ""; }
+
+/* line 444, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-drupal:before {
+  content: ""; }
+
+/* line 445, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-joomla:before {
+  content: ""; }
+
+/* line 446, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-language:before {
+  content: ""; }
+
+/* line 447, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-fax:before {
+  content: ""; }
+
+/* line 448, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-building:before {
+  content: ""; }
+
+/* line 449, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-child:before {
+  content: ""; }
+
+/* line 450, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-paw:before {
+  content: ""; }
+
+/* line 451, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-spoon:before {
+  content: ""; }
+
+/* line 452, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cube:before {
+  content: ""; }
+
+/* line 453, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cubes:before {
+  content: ""; }
+
+/* line 454, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-behance:before {
+  content: ""; }
+
+/* line 455, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-behance-square:before {
+  content: ""; }
+
+/* line 456, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-steam:before {
+  content: ""; }
+
+/* line 457, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-steam-square:before {
+  content: ""; }
+
+/* line 458, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-recycle:before {
+  content: ""; }
+
+/* line 459, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-automobile:before,
 .fa-car:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 461, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 461, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-cab:before,
 .fa-taxi:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 463, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-tree:before {
   content: ""; }
@@ -9168,26 +10911,78 @@ button.close {
   content: ""; }
 
 /* line 472, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 463, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-tree:before {
+  content: ""; }
+
+/* line 464, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-spotify:before {
+  content: ""; }
+
+/* line 465, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-deviantart:before {
+  content: ""; }
+
+/* line 466, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-soundcloud:before {
+  content: ""; }
+
+/* line 467, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-database:before {
+  content: ""; }
+
+/* line 468, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-file-pdf-o:before {
+  content: ""; }
+
+/* line 469, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-file-word-o:before {
+  content: ""; }
+
+/* line 470, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-file-excel-o:before {
+  content: ""; }
+
+/* line 471, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-file-powerpoint-o:before {
+  content: ""; }
+
+/* line 472, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-file-photo-o:before,
 .fa-file-picture-o:before,
 .fa-file-image-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 475, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 475, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-file-zip-o:before,
 .fa-file-archive-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 477, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 477, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-file-sound-o:before,
 .fa-file-audio-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 479, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 479, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-file-movie-o:before,
 .fa-file-video-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 481, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-file-code-o:before {
   content: ""; }
@@ -9205,6 +11000,25 @@ button.close {
   content: ""; }
 
 /* line 485, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 481, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-file-code-o:before {
+  content: ""; }
+
+/* line 482, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-vine:before {
+  content: ""; }
+
+/* line 483, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-codepen:before {
+  content: ""; }
+
+/* line 484, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-jsfiddle:before {
+  content: ""; }
+
+/* line 485, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-life-bouy:before,
 .fa-life-buoy:before,
 .fa-life-saver:before,
@@ -9212,21 +11026,34 @@ button.close {
 .fa-life-ring:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 490, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-circle-o-notch:before {
   content: ""; }
 
 /* line 491, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 490, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-circle-o-notch:before {
+  content: ""; }
+
+/* line 491, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-ra:before,
 .fa-resistance:before,
 .fa-rebel:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 494, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 494, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-ge:before,
 .fa-empire:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 496, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-git-square:before {
   content: ""; }
@@ -9236,11 +11063,23 @@ button.close {
   content: ""; }
 
 /* line 498, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 496, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-git-square:before {
+  content: ""; }
+
+/* line 497, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-git:before {
+  content: ""; }
+
+/* line 498, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-y-combinator-square:before,
 .fa-yc-square:before,
 .fa-hacker-news:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 501, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-tencent-weibo:before {
   content: ""; }
@@ -9250,20 +11089,40 @@ button.close {
   content: ""; }
 
 /* line 503, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 501, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-tencent-weibo:before {
+  content: ""; }
+
+/* line 502, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-qq:before {
+  content: ""; }
+
+/* line 503, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-wechat:before,
 .fa-weixin:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 505, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 505, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-send:before,
 .fa-paper-plane:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 507, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 507, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-send-o:before,
 .fa-paper-plane-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 509, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-history:before {
   content: ""; }
@@ -9297,10 +11156,46 @@ button.close {
   content: ""; }
 
 /* line 517, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 509, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-history:before {
+  content: ""; }
+
+/* line 510, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-circle-thin:before {
+  content: ""; }
+
+/* line 511, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-header:before {
+  content: ""; }
+
+/* line 512, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-paragraph:before {
+  content: ""; }
+
+/* line 513, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sliders:before {
+  content: ""; }
+
+/* line 514, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-share-alt:before {
+  content: ""; }
+
+/* line 515, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-share-alt-square:before {
+  content: ""; }
+
+/* line 516, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bomb:before {
+  content: ""; }
+
+/* line 517, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-soccer-ball-o:before,
 .fa-futbol-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 519, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-tty:before {
   content: ""; }
@@ -9450,11 +11345,163 @@ button.close {
   content: ""; }
 
 /* line 556, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 519, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-tty:before {
+  content: ""; }
+
+/* line 520, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-binoculars:before {
+  content: ""; }
+
+/* line 521, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-plug:before {
+  content: ""; }
+
+/* line 522, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-slideshare:before {
+  content: ""; }
+
+/* line 523, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-twitch:before {
+  content: ""; }
+
+/* line 524, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-yelp:before {
+  content: ""; }
+
+/* line 525, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-newspaper-o:before {
+  content: ""; }
+
+/* line 526, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-wifi:before {
+  content: ""; }
+
+/* line 527, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-calculator:before {
+  content: ""; }
+
+/* line 528, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-paypal:before {
+  content: ""; }
+
+/* line 529, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-google-wallet:before {
+  content: ""; }
+
+/* line 530, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cc-visa:before {
+  content: ""; }
+
+/* line 531, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cc-mastercard:before {
+  content: ""; }
+
+/* line 532, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cc-discover:before {
+  content: ""; }
+
+/* line 533, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cc-amex:before {
+  content: ""; }
+
+/* line 534, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cc-paypal:before {
+  content: ""; }
+
+/* line 535, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cc-stripe:before {
+  content: ""; }
+
+/* line 536, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bell-slash:before {
+  content: ""; }
+
+/* line 537, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bell-slash-o:before {
+  content: ""; }
+
+/* line 538, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-trash:before {
+  content: ""; }
+
+/* line 539, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-copyright:before {
+  content: ""; }
+
+/* line 540, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-at:before {
+  content: ""; }
+
+/* line 541, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-eyedropper:before {
+  content: ""; }
+
+/* line 542, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-paint-brush:before {
+  content: ""; }
+
+/* line 543, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-birthday-cake:before {
+  content: ""; }
+
+/* line 544, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-area-chart:before {
+  content: ""; }
+
+/* line 545, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pie-chart:before {
+  content: ""; }
+
+/* line 546, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-line-chart:before {
+  content: ""; }
+
+/* line 547, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-lastfm:before {
+  content: ""; }
+
+/* line 548, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-lastfm-square:before {
+  content: ""; }
+
+/* line 549, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-toggle-off:before {
+  content: ""; }
+
+/* line 550, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-toggle-on:before {
+  content: ""; }
+
+/* line 551, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bicycle:before {
+  content: ""; }
+
+/* line 552, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bus:before {
+  content: ""; }
+
+/* line 553, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-ioxhost:before {
+  content: ""; }
+
+/* line 554, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-angellist:before {
+  content: ""; }
+
+/* line 555, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cc:before {
+  content: ""; }
+
+/* line 556, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-shekel:before,
 .fa-sheqel:before,
 .fa-ils:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 559, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-meanpath:before {
   content: ""; }
@@ -9540,10 +11587,98 @@ button.close {
   content: ""; }
 
 /* line 580, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 559, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-meanpath:before {
+  content: ""; }
+
+/* line 560, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-buysellads:before {
+  content: ""; }
+
+/* line 561, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-connectdevelop:before {
+  content: ""; }
+
+/* line 562, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-dashcube:before {
+  content: ""; }
+
+/* line 563, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-forumbee:before {
+  content: ""; }
+
+/* line 564, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-leanpub:before {
+  content: ""; }
+
+/* line 565, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sellsy:before {
+  content: ""; }
+
+/* line 566, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-shirtsinbulk:before {
+  content: ""; }
+
+/* line 567, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-simplybuilt:before {
+  content: ""; }
+
+/* line 568, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-skyatlas:before {
+  content: ""; }
+
+/* line 569, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cart-plus:before {
+  content: ""; }
+
+/* line 570, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cart-arrow-down:before {
+  content: ""; }
+
+/* line 571, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-diamond:before {
+  content: ""; }
+
+/* line 572, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-ship:before {
+  content: ""; }
+
+/* line 573, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-user-secret:before {
+  content: ""; }
+
+/* line 574, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-motorcycle:before {
+  content: ""; }
+
+/* line 575, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-street-view:before {
+  content: ""; }
+
+/* line 576, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-heartbeat:before {
+  content: ""; }
+
+/* line 577, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-venus:before {
+  content: ""; }
+
+/* line 578, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-mars:before {
+  content: ""; }
+
+/* line 579, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-mercury:before {
+  content: ""; }
+
+/* line 580, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-intersex:before,
 .fa-transgender:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 582, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-transgender-alt:before {
   content: ""; }
@@ -9605,10 +11740,74 @@ button.close {
   content: ""; }
 
 /* line 597, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 582, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-transgender-alt:before {
+  content: ""; }
+
+/* line 583, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-venus-double:before {
+  content: ""; }
+
+/* line 584, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-mars-double:before {
+  content: ""; }
+
+/* line 585, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-venus-mars:before {
+  content: ""; }
+
+/* line 586, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-mars-stroke:before {
+  content: ""; }
+
+/* line 587, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-mars-stroke-v:before {
+  content: ""; }
+
+/* line 588, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-mars-stroke-h:before {
+  content: ""; }
+
+/* line 589, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-neuter:before {
+  content: ""; }
+
+/* line 590, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-genderless:before {
+  content: ""; }
+
+/* line 591, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-facebook-official:before {
+  content: ""; }
+
+/* line 592, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pinterest-p:before {
+  content: ""; }
+
+/* line 593, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-whatsapp:before {
+  content: ""; }
+
+/* line 594, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-server:before {
+  content: ""; }
+
+/* line 595, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-user-plus:before {
+  content: ""; }
+
+/* line 596, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-user-times:before {
+  content: ""; }
+
+/* line 597, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-hotel:before,
 .fa-bed:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 599, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-viacoin:before {
   content: ""; }
@@ -9626,10 +11825,30 @@ button.close {
   content: ""; }
 
 /* line 603, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 599, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-viacoin:before {
+  content: ""; }
+
+/* line 600, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-train:before {
+  content: ""; }
+
+/* line 601, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-subway:before {
+  content: ""; }
+
+/* line 602, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-medium:before {
+  content: ""; }
+
+/* line 603, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-yc:before,
 .fa-y-combinator:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 605, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-optin-monster:before {
   content: ""; }
@@ -9643,30 +11862,62 @@ button.close {
   content: ""; }
 
 /* line 608, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 605, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-optin-monster:before {
+  content: ""; }
+
+/* line 606, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-opencart:before {
+  content: ""; }
+
+/* line 607, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-expeditedssl:before {
+  content: ""; }
+
+/* line 608, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-battery-4:before,
 .fa-battery-full:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 610, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 610, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-battery-3:before,
 .fa-battery-three-quarters:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 612, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 612, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-battery-2:before,
 .fa-battery-half:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 614, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 614, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-battery-1:before,
 .fa-battery-quarter:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 616, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 616, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-battery-0:before,
 .fa-battery-empty:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 618, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-mouse-pointer:before {
   content: ""; }
@@ -9712,34 +11963,102 @@ button.close {
   content: ""; }
 
 /* line 629, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 618, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-mouse-pointer:before {
+  content: ""; }
+
+/* line 619, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-i-cursor:before {
+  content: ""; }
+
+/* line 620, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-object-group:before {
+  content: ""; }
+
+/* line 621, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-object-ungroup:before {
+  content: ""; }
+
+/* line 622, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sticky-note:before {
+  content: ""; }
+
+/* line 623, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-sticky-note-o:before {
+  content: ""; }
+
+/* line 624, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cc-jcb:before {
+  content: ""; }
+
+/* line 625, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-cc-diners-club:before {
+  content: ""; }
+
+/* line 626, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-clone:before {
+  content: ""; }
+
+/* line 627, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-balance-scale:before {
+  content: ""; }
+
+/* line 628, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hourglass-o:before {
+  content: ""; }
+
+/* line 629, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-hourglass-1:before,
 .fa-hourglass-start:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 631, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 631, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-hourglass-2:before,
 .fa-hourglass-half:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 633, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 633, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-hourglass-3:before,
 .fa-hourglass-end:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 635, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-hourglass:before {
   content: ""; }
 
 /* line 636, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 635, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hourglass:before {
+  content: ""; }
+
+/* line 636, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-hand-grab-o:before,
 .fa-hand-rock-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 638, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 638, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-hand-stop-o:before,
 .fa-hand-paper-o:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 640, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-hand-scissors-o:before {
   content: ""; }
@@ -9821,10 +12140,94 @@ button.close {
   content: ""; }
 
 /* line 660, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 640, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hand-scissors-o:before {
+  content: ""; }
+
+/* line 641, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hand-lizard-o:before {
+  content: ""; }
+
+/* line 642, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hand-spock-o:before {
+  content: ""; }
+
+/* line 643, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hand-pointer-o:before {
+  content: ""; }
+
+/* line 644, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hand-peace-o:before {
+  content: ""; }
+
+/* line 645, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-trademark:before {
+  content: ""; }
+
+/* line 646, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-registered:before {
+  content: ""; }
+
+/* line 647, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-creative-commons:before {
+  content: ""; }
+
+/* line 648, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-gg:before {
+  content: ""; }
+
+/* line 649, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-gg-circle:before {
+  content: ""; }
+
+/* line 650, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-tripadvisor:before {
+  content: ""; }
+
+/* line 651, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-odnoklassniki:before {
+  content: ""; }
+
+/* line 652, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-odnoklassniki-square:before {
+  content: ""; }
+
+/* line 653, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-get-pocket:before {
+  content: ""; }
+
+/* line 654, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-wikipedia-w:before {
+  content: ""; }
+
+/* line 655, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-safari:before {
+  content: ""; }
+
+/* line 656, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-chrome:before {
+  content: ""; }
+
+/* line 657, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-firefox:before {
+  content: ""; }
+
+/* line 658, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-opera:before {
+  content: ""; }
+
+/* line 659, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-internet-explorer:before {
+  content: ""; }
+
+/* line 660, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-tv:before,
 .fa-television:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 662, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-contao:before {
   content: ""; }
@@ -10026,16 +12429,224 @@ button.close {
   content: ""; }
 
 /* line 712, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 662, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-contao:before {
+  content: ""; }
+
+/* line 663, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-500px:before {
+  content: ""; }
+
+/* line 664, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-amazon:before {
+  content: ""; }
+
+/* line 665, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-calendar-plus-o:before {
+  content: ""; }
+
+/* line 666, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-calendar-minus-o:before {
+  content: ""; }
+
+/* line 667, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-calendar-times-o:before {
+  content: ""; }
+
+/* line 668, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-calendar-check-o:before {
+  content: ""; }
+
+/* line 669, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-industry:before {
+  content: ""; }
+
+/* line 670, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-map-pin:before {
+  content: ""; }
+
+/* line 671, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-map-signs:before {
+  content: ""; }
+
+/* line 672, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-map-o:before {
+  content: ""; }
+
+/* line 673, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-map:before {
+  content: ""; }
+
+/* line 674, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-commenting:before {
+  content: ""; }
+
+/* line 675, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-commenting-o:before {
+  content: ""; }
+
+/* line 676, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-houzz:before {
+  content: ""; }
+
+/* line 677, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-vimeo:before {
+  content: ""; }
+
+/* line 678, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-black-tie:before {
+  content: ""; }
+
+/* line 679, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-fonticons:before {
+  content: ""; }
+
+/* line 680, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-reddit-alien:before {
+  content: ""; }
+
+/* line 681, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-edge:before {
+  content: ""; }
+
+/* line 682, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-credit-card-alt:before {
+  content: ""; }
+
+/* line 683, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-codiepie:before {
+  content: ""; }
+
+/* line 684, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-modx:before {
+  content: ""; }
+
+/* line 685, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-fort-awesome:before {
+  content: ""; }
+
+/* line 686, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-usb:before {
+  content: ""; }
+
+/* line 687, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-product-hunt:before {
+  content: ""; }
+
+/* line 688, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-mixcloud:before {
+  content: ""; }
+
+/* line 689, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-scribd:before {
+  content: ""; }
+
+/* line 690, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pause-circle:before {
+  content: ""; }
+
+/* line 691, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pause-circle-o:before {
+  content: ""; }
+
+/* line 692, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-stop-circle:before {
+  content: ""; }
+
+/* line 693, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-stop-circle-o:before {
+  content: ""; }
+
+/* line 694, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-shopping-bag:before {
+  content: ""; }
+
+/* line 695, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-shopping-basket:before {
+  content: ""; }
+
+/* line 696, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-hashtag:before {
+  content: ""; }
+
+/* line 697, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bluetooth:before {
+  content: ""; }
+
+/* line 698, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-bluetooth-b:before {
+  content: ""; }
+
+/* line 699, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-percent:before {
+  content: ""; }
+
+/* line 700, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-gitlab:before {
+  content: ""; }
+
+/* line 701, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-wpbeginner:before {
+  content: ""; }
+
+/* line 702, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-wpforms:before {
+  content: ""; }
+
+/* line 703, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-envira:before {
+  content: ""; }
+
+/* line 704, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-universal-access:before {
+  content: ""; }
+
+/* line 705, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-wheelchair-alt:before {
+  content: ""; }
+
+/* line 706, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-question-circle-o:before {
+  content: ""; }
+
+/* line 707, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-blind:before {
+  content: ""; }
+
+/* line 708, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-audio-description:before {
+  content: ""; }
+
+/* line 709, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-volume-control-phone:before {
+  content: ""; }
+
+/* line 710, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-braille:before {
+  content: ""; }
+
+/* line 711, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-assistive-listening-systems:before {
+  content: ""; }
+
+/* line 712, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-asl-interpreting:before,
 .fa-american-sign-language-interpreting:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 714, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 714, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-deafness:before,
 .fa-hard-of-hearing:before,
 .fa-deaf:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 717, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-glide:before {
   content: ""; }
@@ -10045,10 +12656,22 @@ button.close {
   content: ""; }
 
 /* line 719, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+=======
+/* line 717, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-glide:before {
+  content: ""; }
+
+/* line 718, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-glide-g:before {
+  content: ""; }
+
+/* line 719, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+>>>>>>> origin/gh-pages
 .fa-signing:before,
 .fa-sign-language:before {
   content: ""; }
 
+<<<<<<< HEAD
 /* line 721, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
 .fa-low-vision:before {
   content: ""; }
@@ -10090,6 +12713,49 @@ button.close {
   content: ""; }
 
 /* line 4, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_screen-reader.scss */
+=======
+/* line 721, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-low-vision:before {
+  content: ""; }
+
+/* line 722, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-viadeo:before {
+  content: ""; }
+
+/* line 723, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-viadeo-square:before {
+  content: ""; }
+
+/* line 724, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-snapchat:before {
+  content: ""; }
+
+/* line 725, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-snapchat-ghost:before {
+  content: ""; }
+
+/* line 726, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-snapchat-square:before {
+  content: ""; }
+
+/* line 727, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-pied-piper:before {
+  content: ""; }
+
+/* line 728, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-first-order:before {
+  content: ""; }
+
+/* line 729, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-yoast:before {
+  content: ""; }
+
+/* line 730, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_icons.scss */
+.fa-themeisle:before {
+  content: ""; }
+
+/* line 4, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_screen-reader.scss */
+>>>>>>> origin/gh-pages
 .sr-only {
   position: absolute;
   width: 1px;
@@ -10100,7 +12766,11 @@ button.close {
   clip: rect(0, 0, 0, 0);
   border: 0; }
 
+<<<<<<< HEAD
 /* line 51, /Users/specialsause/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_mixins.scss */
+=======
+/* line 51, /Users/calebhailey/.rvm/gems/ruby-2.1.0/gems/font-awesome-sass-4.6.2/assets/stylesheets/font-awesome/_mixins.scss */
+>>>>>>> origin/gh-pages
 .sr-only-focusable:active, .sr-only-focusable:focus {
   position: static;
   width: auto;
@@ -10109,12 +12779,17 @@ button.close {
   overflow: visible;
   clip: auto; }
 
+<<<<<<< HEAD
 /* line 2, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
+=======
+/* line 2, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+>>>>>>> origin/gh-pages
 body p {
   font-family: 'Droid Sans', sans-serif;
   font-size: 1.3em;
   line-height: 1.5em; }
 
+<<<<<<< HEAD
 /* line 9, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
 h1, h2, h3, h4, h5, h6 {
   margin: 15px 0px; }
@@ -10144,6 +12819,37 @@ h6 {
   font-size: 1.5em; }
 
 /* line 12, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/base.scss */
+=======
+/* line 9, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h1, h2, h3, h4, h5, h6 {
+  margin: 15px 0px; }
+
+/* line 14, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h1 {
+  font-size: 4.0em; }
+
+/* line 18, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h2 {
+  font-size: 3.0em; }
+
+/* line 22, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h3 {
+  font-size: 2.5em; }
+
+/* line 26, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h4 {
+  font-size: 2.0em; }
+
+/* line 30, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h5 {
+  font-size: 1.75em; }
+
+/* line 34, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h6 {
+  font-size: 1.5em; }
+
+/* line 12, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/base.scss */
+>>>>>>> origin/gh-pages
 .section {
   padding-top: 50px;
   padding-bottom: 50px; }

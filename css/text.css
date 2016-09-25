@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 /* line 2, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
+=======
+/* line 2, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+>>>>>>> origin/gh-pages
 body p {
   font-family: 'Droid Sans', sans-serif;
   font-size: 1.3em;
   line-height: 1.5em; }
 
+<<<<<<< HEAD
 /* line 9, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
 h1, h2, h3, h4, h5, h6 {
   margin: 15px 0px; }
@@ -29,5 +34,32 @@ h5 {
   font-size: 1.75em; }
 
 /* line 34, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/text.scss */
+=======
+/* line 9, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h1, h2, h3, h4, h5, h6 {
+  margin: 15px 0px; }
+
+/* line 14, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h1 {
+  font-size: 4.0em; }
+
+/* line 18, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h2 {
+  font-size: 3.0em; }
+
+/* line 22, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h3 {
+  font-size: 2.5em; }
+
+/* line 26, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h4 {
+  font-size: 2.0em; }
+
+/* line 30, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+h5 {
+  font-size: 1.75em; }
+
+/* line 34, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/text.scss */
+>>>>>>> origin/gh-pages
 h6 {
   font-size: 1.5em; }
