@@ -1,9 +1,35 @@
-%div.container
-  = stylesheet_link_tag "services"
-  %h1= "Bridge City Squeegee"
-  %h3= "Services"
-  <ul>
-  <li>Window washing</li>
-  <li>Gutter cleaning</li>
-  <li>General handiman</li>
-  </ul>
+---
+title: "Portland, Lake Oswego: Windows, Gutters, Handiman."
+---
+
+= stylesheet_link_tag "services"
+- content = data["pages"]["services"]
+
+%div.banner
+  %div.container
+    %div.col-xs-6
+    %h1= content["title"]
+    %p.coverage= content["coverage"]
+  %div.container-fluid
+    %div.row.subtitle
+      %p= content["subtitle"]
+    %div.row.contact
+      - content["contactInfo"].each do |contact|
+        %div.col-sm-offset-3.col-sm-3
+          %a.info{:ref => "971-231-5309"} Call Us
+        %div.col-sm-3
+          %p.info
+            #{mail_to("jacob@bridgecitysqueegee.com", "Email Us", subject: "Follow Up Requested")}
+
+%div.container.services
+  %ul
+    - content["serviceType"].each do |service|
+      %li
+        %h4= service[:label]
+        %p= service[:description]
+
+%div.mission
+  %div.container
+    - content["mission"].each do |mission|
+      %p= mission[:statement]
+      %p= mission[:quoted]

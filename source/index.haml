@@ -1,6 +1,7 @@
 ---
 title: "Your Portland-area window-cleaning specialists."
 ---
+
 - content = data[:pages][:index]
 
 %div.banner.section{ class: content[:banner][:class] }
@@ -9,8 +10,10 @@ title: "Your Portland-area window-cleaning specialists."
     %div.row
       %div.col-xs-offset-2.col-xs-8.col-sm-offset-3.col-sm-6.col-md-offset-4.col-md-4
         %img.img-responsive.logo{ src: content[:banner][:logo] }
+    %div.row
       %div.col-sm-12
         %h3= content[:banner][:subheading]
+    %div.row
       %div.col-xs-offset-3.col-xs-6.col-sm-offset-4.col-sm-4
         %a.btn{ class: content[:banner][:button][:class] || "btn-default",
               href: content[:banner][:button][:url],
