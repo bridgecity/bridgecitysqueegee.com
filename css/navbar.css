@@ -1,16 +1,8 @@
-<<<<<<< HEAD
-/* line 1, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/navbar.scss */
-.navbar {
-  margin-bottom: 0px; }
-
-/* line 5, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/navbar.scss */
-=======
 /* line 1, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/navbar.scss */
 .navbar {
   margin-bottom: 0px; }
 
 /* line 5, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/navbar.scss */
->>>>>>> origin/gh-pages
 .navbar .navbar-header > a.navbar-brand > span,
 .navbar ul > li > a > span,
 .navbar span {

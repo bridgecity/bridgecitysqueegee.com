@@ -1,34 +1,15 @@
-<<<<<<< HEAD
-/* line 25, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
-=======
 /* line 25, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/index.scss */
->>>>>>> origin/gh-pages
 .banner {
   background-image: url("/img/background-windows-blur.jpg");
   background-color: rgba(4, 150, 255, 0.9);
   background-size: cover;
   background-position: top; }
 
-<<<<<<< HEAD
-/* line 32, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
-=======
 /* line 32, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/index.scss */
->>>>>>> origin/gh-pages
 .banner img .logo {
   max-width: 100%;
   height: auto; }
 
-<<<<<<< HEAD
-/* line 37, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
-.banner h1 {
-  color: white; }
-
-/* line 41, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
-.banner h3 {
-  color: white; }
-
-/* line 45, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
-=======
 /* line 37, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/index.scss */
 .banner h1 {
   color: white; }
@@ -38,35 +19,22 @@
   color: white; }
 
 /* line 45, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/index.scss */
->>>>>>> origin/gh-pages
 .banner .btn {
   margin-top: 30px;
   margin-bottom: 30px; }
 
-<<<<<<< HEAD
-/* line 50, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
-=======
 /* line 50, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/index.scss */
->>>>>>> origin/gh-pages
 .notice-text-box {
   margin-left: 15%;
   width: 70%;
   background-color: rgba(0, 0, 0, 0.08); }
 
-<<<<<<< HEAD
-/* line 56, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
-=======
 /* line 56, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/index.scss */
->>>>>>> origin/gh-pages
 .notice {
   padding: 5px;
   font-size: 1.2em; }
 
-<<<<<<< HEAD
-/* line 61, /Users/specialsause/Projects/bridgecitysqueegee.com/source/css/index.scss */
-=======
 /* line 61, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/index.scss */
->>>>>>> origin/gh-pages
 .center-block {
   padding-top: 20%;
   margin: auto; }
