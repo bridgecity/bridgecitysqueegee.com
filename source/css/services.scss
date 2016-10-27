@@ -56,10 +56,15 @@ h1 {
 
 .contact {
   color: black;
-  font-size: 12px;
-  padding-top: 10px;
+  font-size: 18px;
+  padding: 10px 0px;
   background-color: #e0e0e0;
   text-align: center;
+  line-height: 1.5em;
+};
+
+.info {
+  padding: 10px 0;
 };
 
 @media screen and (max-width: 48em){
@@ -67,7 +72,3 @@ h1 {
         text-align: center;
     }
 };
-
-.info {
-  font-size: 16px;
-}

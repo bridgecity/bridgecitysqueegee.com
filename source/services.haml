@@ -14,12 +14,10 @@ title: "Portland, Lake Oswego: Windows, Gutters, Handiman."
     %div.row.subtitle
       %p= content["subtitle"]
     %div.row.contact
-      - content["contactInfo"].each do |contact|
-        %div.col-sm-offset-3.col-sm-3
-          %a.info{:ref => "971-231-5309"} Call Us
-        %div.col-sm-3
-          %p.info
-            #{mail_to("jacob@bridgecitysqueegee.com", "Email Us", subject: "Follow Up Requested")}
+      %div.col-sm-offset-3.col-sm-3.info
+        %a{ :href => "tel:971-231-5309" }= "Call Us"
+      %div.col-sm-3.info
+        = mail_to("jacob@bridgecitysqueegee.com", "Email Us", subject: "Follow Up Requested")
 
 %div.container.services
   %ul
