@@ -11,8 +11,6 @@ options:
     url: "/services/windows"
   - label: "Gutter Cleaning"
     url: "/services/gutters"
-  - label: "General Handyman"
-    url: "/services/handyman"
 - label: "Quote"
   url: "/quote"
 - label: "About"
