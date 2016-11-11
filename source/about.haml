@@ -1,0 +1,40 @@
+---
+title: "Your Portland-area window-cleaning specialists."
+---
+
+- content = data[:pages][:about]
+
+%div.banner.section{ class: content[:banner][:class] }
+  = stylesheet_link_tag "about"
+  %div.container
+    %div.row
+      %div.col-xs-offset-2.col-xs-8.col-sm-offset-3.col-sm-6.col-md-offset-4.col-md-4
+        %img.img-responsive.logo{ src: content[:banner][:logo] }
+    %div.row
+      %div.col-sm-12
+        %h3= content[:banner][:subheading]
+    %div.row
+      %div.col-xs-offset-3.col-xs-6.col-sm-offset-4.col-sm-4
+        %a.btn{ class: content[:banner][:button][:class] || "btn-default",
+              href: content[:banner][:button][:url],
+              role: "button" }= content[:banner][:button][:label]
+
+%div.services.section
+  %div.container
+    %div.row
+      %div.col-sm-6
+        %img.img-responsive.servicesPicture{ src: content[:services][:windowsPicture]}
+        - content[:services][:content].each do |copy|
+          :markdown
+            #{copy}
+      %div.col-sm-6
+        %img.img-responsive.servicesPicture{ src: content[:services][:guttersPicture]}
+        - content[:services][:content].each do |copy|
+          :markdown
+            #{copy}
+
+%div.terms
+  %div.container
+    %div.row
+      %div.col-sm-offset-2.col-sm-8
+        %p="**Terms:** Estimates given using the online quote generator or over the phone are not final. Bridge City Squeegee upholds the right to change the rates on any estimate upon a proper on-site inspection. Payment will not be required until services are provided. **Save on your next cleaning:** When one of your referals uses any of our services, recieve up to 10% off your next window cleaning. Maximum savings of $50. Referal savings coupon will be sent to your email and is redeemable for one time use. Coupon expires after six months"
