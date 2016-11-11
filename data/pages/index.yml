@@ -1,8 +1,17 @@
 banner:
   class: "text-center"
+  logo: "/img/logo-white.png"
   heading: "Bridge City Squeegee"
   subheading: "Window Cleaning Done The Right Way"
   button:
     class: "btn-success btn-lg btn-block"
     label: "Free Quote!"
     url: "/quote"
+
+seasonal:
+  heading: "Leaky Gutters Need Us!"
+  content:
+  - "As beautiful as Autumn is, there is no denying it — it can get **messy**!
+    Contact us today or try our [online quote service](/quote) and we will
+    contact you at our earliest convenience. Also, find out more about how we
+    clean your gutters on our [Services page](/services)."

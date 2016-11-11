@@ -1,0 +1,7 @@
+services:
+  windowsPicture: "/img/aboutwindows1.jpeg"
+  guttersPicture: "/img/aboutgutters1.jpeg"
+  content:
+  - '-"Great Service, trustworthy and professional."'
+  -  '-"Awesome Job! Will definitely use them again."'
+  - '-"Available on short notice, just what I needed!"'

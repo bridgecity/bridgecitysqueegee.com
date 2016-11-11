@@ -1,0 +1,48 @@
+.banner {
+  background-image: url("/img/aboutpage1.jpeg");
+  background-color: rgba(4,150,255,0.90);
+  background-size: cover;
+  background-position: center;
+};
+
+.banner img .logo {
+  max-width: 100%;
+  height: auto;
+};
+
+.banner h1 {
+  color: white;
+};
+
+.banner h3 {
+  color: white;
+};
+
+.banner .btn {
+  margin-top: 30px;
+  margin-bottom: 30px;
+};
+
+.notice-text-box {
+  margin-left: 15%;
+  width: 70%;
+  background-color: rgba(0,0,0,0.08);
+}
+
+.notice {
+  padding: 5px;
+  font-size: 1.2em;
+}
+
+.center-block {
+  padding-top: 20%;
+  margin: auto;
+}
+
+.servicesPicture {
+  width: 90%;
+}
+
+.haRatings {
+  margin: 50px 0;
+}

@@ -11,8 +11,6 @@ options:
     url: "/services/windows"
   - label: "Gutter Cleaning"
     url: "/services/gutters"
-  - label: "General Handyman"
-    url: "/services/handyman"
 - label: "Quote"
   url: "/quote"
 - label: "About"
@@ -25,3 +23,6 @@ options:
 - icon:
     class: "fa fa-instagram"
   url: "https://instagram.com/bcsqueegee"
+- label: "(971) 645-9055"
+  url: "tel:9716459055"
+  class: "hidden-sm hidden-md hidden-lg"

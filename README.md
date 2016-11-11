@@ -35,22 +35,25 @@
 7. Build the website
 
    ~~~shell
-   $ bundle exec rake build
+   $ bundle exec middleman build
    ~~~
 
-8. Commit the changes to the `gh-pages` branch:
+8. Deploy the website by copying and committing the static/built website
+   contents to the `gh-pages` branch.
 
    ~~~shell
-   $ bundle exec rake commit
-   ~~~
-
-9. Publish the changes
-
-   ~~~shell
+   $ mkdir /tmp/website
+   $ rm -rf /tmp/website/*
+   $ cp -r public/* /tmp/website/
+   $ git checkout gh-pages
+   $ rm -r .
+   $ cp -r /tmp/website/* .
+   $ git add .
+   $ git commit -m 'updated website'
    $ git push origin gh-pages
    ~~~
 
-10. Switch back to your working branch
+9. Switch back to your working branch
 
    ~~~shell
    $ git checkout training

@@ -1,3 +1,31 @@
 {
-  "title": "Coolio"
+  "title": "Bridge City Squeegee",
+  "subtitle": "Professionals who care for your windows, gutters and more.",
+  "coverage": "Serving the Greater Portland Area.",
+  "serviceType":[
+    {
+      "id": "windowCleaning",
+      "label": "Window Cleaning",
+      "description": "You've tried cleaning your windows and they still look cloudy? Restore the shine in your windows with a professional clean."
+    },
+    {
+      "id": "gutterCleaning",
+      "label": "Gutter Cleaning",
+      "description": "Leaky gutters? We'll remove what's clogging your gutters by hand; meaning we won't carelessly blow the dirty stuff out onto your property below, causing more of a mess."
+    }
+  ],
+  "mission":[
+    {
+      "statement": "Our aim is to provide a quality experience with satisfying results. \"Customer service is what matters the most to me, which is why I choose keep the business small. We're not in competition with the bottom to pack out a busy schedule, instead our focus is to ensure that we do a good job and leave our customers happy.\"",
+      "quoted": "- Jacob Hailey |Owner|"
+    }
+  ],
+  "contactInfo":[
+    {
+      "phone":"971-231-5309",
+      "email":"jacob@bridgecitysqueegee.com"
+    }
+  ]
+
+
 }

@@ -1,0 +1,17 @@
+banner:
+  class: "text-center"
+  logo: "/img/logo-white.png"
+  heading: "Bridge City Squeegee"
+  subheading: "Window Cleaning Done The Right Way"
+  button:
+    class: "btn-success btn-lg btn-block"
+    label: "Free Quote!"
+    url: "/quote"
+
+services:
+  windowsPicture: "/img/aboutwindows1.jpeg"
+  guttersPicture: "/img/aboutgutters1.jpeg"
+  content:
+  - '-"Great Service, trustworthy and professional."'
+  -  '-"Awesome Job! Will definitely use them again."'
+  - '-"Available on short notice, just what I needed!"'
