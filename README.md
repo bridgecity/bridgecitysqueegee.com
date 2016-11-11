@@ -43,9 +43,11 @@
 
    ~~~shell
    $ mkdir /tmp/website
+   $ rm -rf /tmp/website/*
    $ cp -r public/* /tmp/website/
    $ git checkout gh-pages
-   $ git -r /tmp/website/* .
+   $ rm -r .
+   $ cp -r /tmp/website/* .
    $ git add .
    $ git commit -m 'updated website'
    $ git push origin gh-pages
