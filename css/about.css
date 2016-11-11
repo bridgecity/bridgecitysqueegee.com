@@ -1,0 +1,44 @@
+/* line 1, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/about.scss */
+.banner {
+  background-image: url("/img/aboutpage1.jpeg");
+  background-color: rgba(4, 150, 255, 0.9);
+  background-size: cover;
+  background-position: center; }
+
+/* line 8, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/about.scss */
+.banner img .logo {
+  max-width: 100%;
+  height: auto; }
+
+/* line 13, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/about.scss */
+.banner h1 {
+  color: white; }
+
+/* line 17, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/about.scss */
+.banner h3 {
+  color: white; }
+
+/* line 21, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/about.scss */
+.banner .btn {
+  margin-top: 30px;
+  margin-bottom: 30px; }
+
+/* line 26, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/about.scss */
+.notice-text-box {
+  margin-left: 15%;
+  width: 70%;
+  background-color: rgba(0, 0, 0, 0.08); }
+
+/* line 32, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/about.scss */
+.notice {
+  padding: 5px;
+  font-size: 1.2em; }
+
+/* line 37, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/about.scss */
+.center-block {
+  padding-top: 20%;
+  margin: auto; }
+
+/* line 42, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/about.scss */
+.servicesPicture {
+  width: 90%; }

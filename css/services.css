@@ -57,15 +57,17 @@ h1 {
 /* line 57, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/services.scss */
 .contact {
   color: black;
-  font-size: 12px;
-  padding-top: 10px;
+  font-size: 18px;
+  padding: 10px 0px;
   background-color: #e0e0e0;
-  text-align: center; }
+  text-align: center;
+  line-height: 1.5em; }
+
+/* line 66, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/services.scss */
+.info {
+  padding: 10px 0; }
 
 @media screen and (max-width: 48em) {
-  /* line 66, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/services.scss */
+  /* line 71, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/services.scss */
   .banner {
     text-align: center; } }
-/* line 71, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/services.scss */
-.info {
-  font-size: 16px; }

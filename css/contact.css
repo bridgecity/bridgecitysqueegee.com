@@ -1,0 +1,13 @@
+/* line 1, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/contact.scss */
+.contactLeft {
+  padding: 30px 0;
+  margin: 5px 0;
+  text-align: center; }
+
+/* line 7, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/contact.scss */
+.contactRight {
+  background: #22a8e2;
+  border: 1px white solid;
+  padding: 30px;
+  margin: 5px 0;
+  text-align: center; }
