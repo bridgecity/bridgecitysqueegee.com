@@ -48,6 +48,17 @@ h1 {
 .services {
   padding: 30px 15px; }
 
+.services li{
+  list-style-type: none;
+  border-style: ;
+  border: 4px black hidden;}
+
+.services-img{
+  width: 100%;
+  padding: 10%;
+  margin: 0;
+}
+
 /* line 51, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/services.scss */
 .mission {
   background-color: #e0e0e0;

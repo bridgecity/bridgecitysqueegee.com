@@ -42,3 +42,75 @@
 /* line 42, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/about.scss */
 .servicesPicture {
   width: 90%; }
+
+.main {
+  margin: 8% 0;
+}
+
+#about {
+  padding: 0 2%;
+}
+
+#about-img img{
+
+}
+
+#reviews-box {
+  background: #f1f2f2;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 20px 15px 10px;
+  width: 150%;
+  max-width: 300px;
+  height: 890px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+#reviews-header {
+  border-bottom: 1px solid #d7d7d7;
+}
+
+#reviews-icon {
+  width: 100%;
+  max-width: 259px;
+}
+
+#reviews-title {
+  background: #3d4549;
+  color:#fff;
+  margin: 15px -16px;
+  padding: 6px 0 4px;
+  text-align: center;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 1.4em;
+}
+
+#reviews-break {
+  clear: both;
+}
+
+#reviews-contents {
+  width: 100%;
+  height: 607px;
+  background: transparent;
+}
+
+#reviews-view-more {
+  color: #5486a3;
+  font-size: 11px;
+  font-family: helvetica, arial, sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+
+.jumbotron {
+  text-align: center;
+}
+
+.badge {
+  display: inline-block;
+  margin: 2% 2%;
+}
