@@ -82,3 +82,8 @@ h1 {
   /* line 71, /Users/calebhailey/Projects/bridgecity/bridgecitysqueegee.com/source/css/services.scss */
   .banner {
     text-align: center; } }
+
+#quote {
+  text-align: center;
+  margin: 10px 0;
+}

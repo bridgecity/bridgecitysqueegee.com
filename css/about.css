@@ -44,7 +44,7 @@
   width: 90%; }
 
 .main {
-  margin: 8% 0;
+  margin: 5% 0;
 }
 
 #about {
@@ -104,13 +104,24 @@
   text-decoration: none;
 }
 
-
-
 .jumbotron {
   text-align: center;
+  margin: 20px 0;
 }
 
 .badge {
   display: inline-block;
   margin: 2% 2%;
+}
+
+.badge img{
+  max-height: 150px;
+}
+
+#social-media {
+  text-align: center;
+}
+
+.instagram {
+  font-size: 1.1em;
 }
